@@ -46,6 +46,28 @@ Initialized a git repository.
 
 Success! Created frames at /home/jay/nextjs/sesssion1/frames
 
-jay@jay-u2:~/nextjs/sesssion1$ 
-```
+jay@jay-u2:~/nextjs/sesssion1$
+jay@jay-u2:~/nextjs/sesssion1$ ls
+frames
+jay@jay-u2:~/nextjs/sesssion1$ cd frames/
+
+jay@jay-u2:~/nextjs/sesssion1/frames$ ls
+next.config.mjs  node_modules  package-lock.json  public     src                 tsconfig.json
+next-env.d.ts    package.json  postcss.config.js  README.md  tailwind.config.ts
+jay@jay-u2:~/nextjs/sesssion1/frames$ npm run dev
+
+> frames@0.1.0 dev
+> next dev
+
+   \u25b2 Next.js 14.1.3
+   - Local:        http://localhost:3000
+
+ \u2713 Ready in 4.1s
+ \u25cb Compiling / ...
+ \u2713 Compiled / in 21.5s (511 modules)
+ \u2713 Compiled in 1677ms (241 modules)
+ \u2713 Compiled in 562ms (227 modules)
+ \u25cb Compiling /favicon.ico ...
+ \u2713 Compiled /favicon.ico in 9.5s (518 modules)
+
 ```
