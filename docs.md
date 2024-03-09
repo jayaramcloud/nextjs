@@ -1,4 +1,4 @@
-
+```
 jay@jay-u2:~/nextjs$ mkdir sesssion1
 jay@jay-u2:~/nextjs$ cd sesssion1/;ls
 jay@jay-u2:~/nextjs/sesssion1$ npx create-next-app@latest
@@ -47,3 +47,5 @@ Initialized a git repository.
 Success! Created frames at /home/jay/nextjs/sesssion1/frames
 
 jay@jay-u2:~/nextjs/sesssion1$ 
+```
+```
